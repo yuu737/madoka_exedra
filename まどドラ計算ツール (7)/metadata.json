@@ -1,0 +1,6 @@
+{
+  "name": "まどドラ計算ツール",
+  "description": "ゲームのダメージ、MP回復量、行動値、ブレイクボーナスなどを計算するためのウェブアプリケーションです。",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
